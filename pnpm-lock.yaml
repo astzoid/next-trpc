@@ -9,7 +9,7 @@ specifiers:
   '@trpc/next': ^10.6.0
   '@trpc/react-query': ^10.6.0
   '@trpc/server': ^10.6.0
-  '@types/node': 18.14.6
+  '@types/node': 18.15.3
   '@types/react': 18.0.28
   '@types/react-dom': 18.0.11
   '@typescript-eslint/eslint-plugin': ^5.46.1
@@ -42,7 +42,7 @@ dependencies:
   '@trpc/next': 10.6.0_kznkszffmirpqxgovksa2hfpdu
   '@trpc/react-query': 10.6.0_jvy7igwpe5g26kdgldbjgphyd4
   '@trpc/server': 10.6.0
-  '@types/node': 18.14.6
+  '@types/node': 18.15.3
   '@types/react': 18.0.28
   '@types/react-dom': 18.0.11
   next: 13.2.3_biqbaboplfbrettd7655fr4n2y
@@ -625,8 +625,8 @@ packages:
     resolution: {integrity: sha512-2ATO8pfhG1kDvw4Lc4C0GXIMSQFFJBCo/R1fSgTwmUlq5oy95LXyjDQinsRVgQY6gp6ghh3H91wk9ES5/5C+Tw==}
     dev: true
 
-  /@types/node/18.14.6:
-    resolution: {integrity: sha512-93+VvleD3mXwlLI/xASjw0FzKcwzl3OdTCzm1LaRfqgS21gfFtK3zDXM5Op9TeeMsJVOaJ2VRDpT9q4Y3d0AvA==}
+  /@types/node/18.15.3:
+    resolution: {integrity: sha512-p6ua9zBxz5otCmbpb5D3U4B5Nanw6Pk3PPyX05xnxbB/fRv71N7CPmORg7uAD5P70T0xmx1pzAx/FUfa5X+3cw==}
     dev: false
 
   /@types/normalize-package-data/2.4.1:
